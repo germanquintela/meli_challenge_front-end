@@ -1,0 +1,41 @@
+### App
+
+# dependencies
+app/node_modules/
+
+# production
+app/.next/
+app/build
+app/dist
+
+#ide
+app/.vscode/
+
+# misc
+app/.DS_Store
+app/.env
+app/npm-debug.log*
+app/yarn-debug.log*
+app/yarn-error.log*
+
+### Api
+
+# dependencies
+api/node_modules/
+
+# production
+api/build
+api/dist
+
+#ide
+api/.vscode/
+
+# misc
+api/.DS_Store
+api/.env
+api/npm-debug.log*
+api/yarn-debug.log*
+api/yarn-error.log*
+
+
+.DS_Store
